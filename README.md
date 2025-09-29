@@ -141,6 +141,6 @@ Check the setup steps above or [chat with us](https://icons8.com/contact).
 ---
 
 ## Credits
-- Product Hunt “Product of the Day” launch recognition.
+- [Product Hunt “Product of the Day” launch recognition](https://www.producthunt.com/products/icons8?launch=icons8-mcp-server).
 - © 2025 Icons8 — terms, privacy, and support links are available on [icons8.com](https://icons8.com).
 
