@@ -140,7 +140,12 @@ Check the setup steps above or [chat with us](https://icons8.com/contact).
 
 ---
 
+## More from Icons8
+
+Icons are just the start — Icons8 also has **[110,000+ illustrations](https://icons8.com/illustrations?utm_source=github)** in 345 styles ([3D Casual Life](https://icons8.com/illustrations/styles/3d-casual-life?utm_source=github), [Cherry](https://icons8.com/illustrations/styles/cherry?utm_source=github), [3D Stickle](https://icons8.com/illustrations/styles/3d-stickle?utm_source=github)) and **[Mega Creator](https://icons8.com/mega-creator?utm_source=github)** for full graphics.
+
 ## Credits
 - [Product Hunt “Product of the Day” launch recognition](https://www.producthunt.com/products/icons8?launch=icons8-mcp-server).
 - © 2025 Icons8 — terms, privacy, and support links are available on [icons8.com](https://icons8.com).
+
 
