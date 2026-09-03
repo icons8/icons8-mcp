@@ -1,6 +1,6 @@
 # Icons8 MCP server
 
-Icons8 MCP Server gives AI coding environments instant access to 368,865+ Icons8 icons across 116 design styles. Connect your Claude, Cursor, Windsurf, VS Code, or any SSE-capable MCP host to stream high-res PNGs for free or unlock full SVG delivery with an API key—ideal for prototyping, production code, and rapid UI experiments.
+Icons8 MCP Server gives AI coding environments instant access to 420,000+ Icons8 [icons](https://icons8.com/icons?utm_source=github) across 132 design styles. Connect your Claude, Cursor, Windsurf, VS Code, or any SSE-capable MCP host to stream high-res PNGs for free or unlock full SVG delivery with an API key—ideal for prototyping, production code, and rapid UI experiments.
 
 ### Use cases
 - Replace entire icon sets in existing projects with consistent, on-trend styles.
@@ -142,7 +142,7 @@ Check the setup steps above or [chat with us](https://icons8.com/contact).
 
 ## More from Icons8
 
-Icons are just the start — Icons8 also has **[110,000+ illustrations](https://icons8.com/illustrations?utm_source=github)** in 345 styles ([3D Casual Life](https://icons8.com/illustrations/styles/3d-casual-life?utm_source=github), [Cherry](https://icons8.com/illustrations/styles/cherry?utm_source=github), [3D Stickle](https://icons8.com/illustrations/styles/3d-stickle?utm_source=github)) and **[Mega Creator](https://icons8.com/mega-creator?utm_source=github)** for full graphics.
+Icons are just the start — Icons8 also has **[110,000+ illustrations](https://icons8.com/illustrations?utm_source=github)** in 346 styles ([3D Casual Life](https://icons8.com/illustrations/styles/3d-casual-life?utm_source=github), [Cherry](https://icons8.com/illustrations/styles/cherry?utm_source=github), [3D Stickle](https://icons8.com/illustrations/styles/3d-stickle?utm_source=github)) and **[Mega Creator](https://icons8.com/mega-creator?utm_source=github)** for full graphics.
 
 ## Credits
 - [Product Hunt “Product of the Day” launch recognition](https://www.producthunt.com/products/icons8?launch=icons8-mcp-server).
