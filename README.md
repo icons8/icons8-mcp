@@ -1,6 +1,6 @@
 # Icons8 MCP server
 
-Icons8 MCP Server gives AI coding environments access to the [Icons8](https://icons8.com/icons?utm_source=mcp) icon catalog (420,000+ icons in 130+ design styles) and to [Ouch illustrations](https://icons8.com/illustrations?utm_source=mcp) (110,000+ illustrations in 340+ styles). Connect Claude, Cursor, Windsurf, VS Code, Codex or any MCP host, sign in once, and search the catalogs, preview artwork for free, or download SVG, Lottie and animated formats with a paid plan.
+Icons8 MCP Server gives AI coding environments access to the [Icons8](https://icons8.com/icons?utm_source=github&utm_campaign=mcp) icon catalog (420,000+ icons in 130+ design styles) and to [Ouch illustrations](https://icons8.com/illustrations?utm_source=github&utm_campaign=mcp) (110,000+ illustrations in 340+ styles). Connect Claude, Cursor, Windsurf, VS Code, Codex or any MCP host, sign in once, and search the catalogs, preview artwork for free, or download SVG, Lottie and animated formats with a paid plan.
 
 The server is listed in the official MCP Registry as `com.icons8/icons8`.
 
@@ -42,7 +42,7 @@ Sign in when the browser opens. Search, previews and the free formats work from 
 ### Step 2: unlock the paid formats when you need them
 
 Icon SVG, icon Lottie and the full-size illustration formats need an Icons8 plan with MCP access.
-See [the plans](https://icons8.com/pricing?utm_source=mcp). The account you signed in with carries
+See [the plans](https://icons8.com/pricing?utm_source=github&utm_campaign=mcp). The account you signed in with carries
 the plan. There is no second server to add and no second configuration to swap in.
 
 The `get_icon_svg` tool appears in the tool list once the connection carries a credential. If your
@@ -125,7 +125,7 @@ preview links in the search result, so embedding one needs no second call.
 The paid illustration formats need an account whose plan covers both illustrations and MCP access.
 The Illustrations plan alone has no MCP access.
 
-Free PNG use requires attribution with a link back to Icons8. See the [Icons8 license](https://icons8.com/license).
+Free PNG use requires attribution with a link back to Icons8. See the [Icons8 license](https://icons8.com/license?utm_source=github&utm_campaign=mcp).
 
 ### Download limit
 
@@ -226,20 +226,20 @@ No. The server speaks Streamable HTTP, so your client connects to it directly. A
 `npx mcp-remote` configuration keeps working.
 
 **Where is my data processed?**  
-The server runs at `mcp.icons8.com`. Icons8 [terms and privacy](https://icons8.com) apply.
+The server runs at `mcp.icons8.com`. Icons8 [terms and privacy](https://icons8.com/?utm_source=github&utm_campaign=mcp) apply.
 
 **Need help?**  
-[Chat with us](https://icons8.com/contact).
+[Chat with us](https://icons8.com/contact?utm_source=github&utm_campaign=mcp).
 
 ---
 
 ## More from Icons8
 
-[Mega Creator](https://icons8.com/mega-creator?utm_source=mcp) makes full graphics. The illustration
-catalog has styles such as [3D Casual Life](https://icons8.com/illustrations/styles/3d-casual-life?utm_source=mcp),
-[Cherry](https://icons8.com/illustrations/styles/cherry?utm_source=mcp) and
-[3D Stickle](https://icons8.com/illustrations/styles/3d-stickle?utm_source=mcp).
+[Mega Creator](https://icons8.com/mega-creator?utm_source=github&utm_campaign=mcp) makes full graphics. The illustration
+catalog has styles such as [3D Casual Life](https://icons8.com/illustrations/styles/3d-casual-life?utm_source=github&utm_campaign=mcp),
+[Cherry](https://icons8.com/illustrations/styles/cherry?utm_source=github&utm_campaign=mcp) and
+[3D Stickle](https://icons8.com/illustrations/styles/3d-stickle?utm_source=github&utm_campaign=mcp).
 
 ## Credits
 - [Product Hunt “Product of the Day” launch recognition](https://www.producthunt.com/products/icons8?launch=icons8-mcp-server).
-- © Icons8 — terms, privacy and support links are on [icons8.com](https://icons8.com).
+- © Icons8 — terms, privacy and support links are on [icons8.com](https://icons8.com/?utm_source=github&utm_campaign=mcp).
